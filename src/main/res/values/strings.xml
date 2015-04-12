@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FatSecret Search</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_voice">Voice</string>
+    <string name="shadow_description">Drop Shadow</string>
+    <string name="load_more">Load More</string>
+</resources>
