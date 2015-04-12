@@ -27,8 +27,8 @@ public class FatSecretSearch {
      * https://github.com/ethan-james/cookbox/blob/master/src/com/vitaminc4/cookbox/FatSecret.java
      */
     final static private String APP_METHOD = "GET";
-    final static private String APP_KEY = "5ae8743c128b4edb9778933725f14c76";
-    final static private String APP_SECRET = "0001f83d88984ac5818fcf4fcfb0bd8a&";
+    final static private String APP_KEY = "...";
+    final static private String APP_SECRET = "...";
     final static private String APP_URL = "http://platform.fatsecret.com/rest/server.api";
     private static final String HMAC_SHA1_ALGORITHM = "HmacSHA1";
 
